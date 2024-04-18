@@ -26,3 +26,8 @@
 [서버]
 
 https://supabase.com/  사용
+
+
+
+<img width="363" alt="image" src="https://github.com/xenoager/Compose-Study/assets/8413641/3aa90eca-ea2b-4444-9d31-86d7a1b730cd">
+<img width="363" alt="image" src="https://github.com/xenoager/Compose-Study/assets/8413641/d829adef-deb1-4621-a12a-7ee4391626fe">
