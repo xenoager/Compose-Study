@@ -1,16 +1,5 @@
 # Compose Study app
 
-
-[언어] :: Kotlin
-
-[패턴] :: mvvm
-
-[DB]  :: 없음
-
-[통신] :: ktor + coroutines
-
-[의존성] :: 없음
-
 # 소개
 
 [만든 이유]
